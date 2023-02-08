@@ -1,1 +1,1 @@
-Task 4. Hidden files
+task 6. Welcome
