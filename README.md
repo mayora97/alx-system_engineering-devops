@@ -1,1 +1,1 @@
-Task 17. Tree
+Task 18. List of series and commas
